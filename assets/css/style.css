@@ -9,7 +9,7 @@ body {
 }
 
 
-/* class selector (.header) changed to element header */
+/* Class selector (.header) changed to element header. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ header h1 {
 }
 
 
-/* Removed to (header h1) from the (.seo) selector below. */
+/* Removed the (header h1) from the (.seo) selector below. */
 .seo {
     color: #d9dcd6;
 }
@@ -79,8 +79,8 @@ p {
     font-size: 36px;
 }
 
-            /* Removed some selectors that were setting the max-height for images
-             and placed thier style inside below classes which are for img tags.  */
+           /* Removed some selectors that were setting the max-height for images
+          and placed thier style inside below classes which are for img tags.  */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -150,7 +150,7 @@ aside {
 }
 
 /* Deleted selectors for h3 below and set the aside element selector
-which is the grand parent of the h3s .*/
+which is the grand parent of the h3s. */
 
 aside h3 {
     margin-bottom: 10px;

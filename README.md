@@ -1,25 +1,21 @@
 # HTML AND CSS Code Refacroring
-==================================
+=================================
+ 
+## Describtion
 
-## :page_with_curl: Describtion
---------------------------------
-Code refactoring is a process which developers can restructure and organize the existing code , without changing what it does. This project is using HTML and CSS languages to make a beautiful website for a marketing agency. To make it more accessible I made some changes.
+Code refactoring is a process which developers can restructure and organize the existing code without changing what it does. This project is using HTML and CSS languages to make a beautiful website for a marketing agency. To make it more accessible I made some changes.
 
-*Added alt attribute to all img tags.
-*Added semantic HTML elements.
-*Organized CSS style sheet to make it follow HTML semantic elements.
+ - Added alt attribute to all img tags.
+ - Added semantic HTML elements.
+ - Organized CSS style sheet to make it follow  HTML semantic elements.
 
-## :camera: Screenshot
-------------------------
-![This is how the web page looks.](assets/images/screenshot.png)
+## Screenshot
+<img src="assets/css/images/screenshot.png" width="600" height="500">
 
-
-## :hammer_and_wrench: :computer:  Tools and Technologies
-----------------------------------------------
-*languages: HTML and CSS
-*version control: Git
-*Editor: Visual Studio Code
-*Operating System: Windows 10
+## Tools and Technologies
+ - languages: HTML and CSS
+ - version control: Git
+ - Editor: Visual Studio Code
+ - Operating System: Windows 10
 
 ## Website Deployed Link
----------------------------
