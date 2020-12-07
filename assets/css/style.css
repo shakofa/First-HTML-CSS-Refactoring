@@ -49,7 +49,7 @@ header div ul li {
 a {
     color: #ffffff;
     text-decoration: none;
-}
+} 
 
 
 p {
@@ -66,8 +66,7 @@ p {
     background-position: center;
 }
 
-          /* Replaced (.content) to make it in order based on html page code
-          to make it easy to find. */
+          /* Replaced (.content) to make it follow semantic structure of html elements. */
 .content {
     width: 75%;
     display: inline-block;
@@ -94,7 +93,7 @@ p {
     max-height: 200px; /* This style moved here. */
 }
 
-/* Replaced below classes to make them in order based on html page code. */
+ /* Replaced below classes to make them follow semantic structure of html elements. */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
