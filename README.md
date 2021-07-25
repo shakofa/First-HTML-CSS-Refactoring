@@ -8,7 +8,6 @@
  - Added alt attribute to all img tags.
  - Added semantic HTML elements.
  - Organized CSS style sheet to make it follow  HTML semantic elements.
-
 ## Screenshot
  <img src="assets\screenshot.png" width="600" height="600">
 
