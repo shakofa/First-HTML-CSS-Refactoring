@@ -3,13 +3,13 @@
  
 ## Describtion
 
- Code refactoring is a process which developers can restructure and organize the existing code without changing what it does. This project is using HTML and CSS languages to make a beautiful website for a marketing agency. To make it more accessible I made some changes.
+ Code refactoring is a process which developers can restructure and organize the existing code without changing what it does. This project is using HTML and CSS languages to make a beautiful website for a marketing agency. To make it more accessible I made some changes:
 
  - Added alt attribute to all img tags.
  - Added semantic HTML elements.
  - Organized CSS style sheet to make it follow  HTML semantic elements.
 ## Screenshot
- <img src="assets\screenshot.png" width="700" height="600">
+ <img src="assets\screenshot.png" width="700" height="700">
 
 ## Tools and Technologies
  - **languages:** HTML and CSS
